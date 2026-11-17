@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello! I'm Joseph Patrick 👋
 
-<!--
-**Joseth-map/Joseth-map** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in
+Software Engineering, Backend Development,
+Artificial Intelligence and Data Science.
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- C++
+- Java
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Backend Development
+- Algorithms and Data Structures
+- Artificial Intelligence
+- Data Science
+
+## Featured Projects
+[Project 1]
+[Project 2]
+[Project 3]
+
+## Contact
+- LinkedIn: [My LinkedIn]
+- GitHub: [My GitHub]
